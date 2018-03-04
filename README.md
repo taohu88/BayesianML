@@ -22,6 +22,7 @@
 * Check data normal: http://allendowney.blogspot.com/2013/08/are-my-data-normal.html
 * Allen Downey blog:  http://allendowney.blogspot.com/2018/
 * http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/
+* One of Edward lead: http://dustintran.com/#publications
 
 
 # Books
