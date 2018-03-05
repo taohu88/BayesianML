@@ -16,6 +16,7 @@
 
 # Good Papers
 * Bayesian Learning via Stochastic Gradient Langevin Dynamics: https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf
+* Hamiltonian monte carlo https://arxiv.org/pdf/1701.02434.pdf
 
 # Blogs
 * http://fastml.com/bayesian-machine-learning/
