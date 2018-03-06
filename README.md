@@ -19,6 +19,9 @@
 * Hamiltonian monte carlo https://arxiv.org/pdf/1701.02434.pdf
 * Hamiltonian MC video: https://www.youtube.com/watch?v=VnNdhsm0rJQ
 * Hamiltonian MC: https://www.youtube.com/watch?v=pHsuIaPbNbY
+* Neal, R.M. Bayesian learning
+via stochastic dynamics. In
+NIPS 1993. https://pdfs.semanticscholar.org/d275/cf94e620bf5b3776bba8a88acccdcfcd9a19.pdf
 
 # Blogs
 * http://fastml.com/bayesian-machine-learning/
