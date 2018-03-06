@@ -27,6 +27,9 @@
 * http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/
 * One of Edward lead: http://dustintran.com/#publications
 
+# Tutorials
+* Hybrid Monte-Carlo Sampling http://deeplearning.net/tutorial/hmc.html
+
 
 # Books
 * Bishop: PRML
