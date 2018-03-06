@@ -25,6 +25,7 @@ NIPS 1993. https://pdfs.semanticscholar.org/d275/cf94e620bf5b3776bba8a88acccdcfc
 * Neal, R.M. Bayesian learning
 for neural networks. PhD
 thesis https://www.cs.toronto.edu/~radford/ftp/thesis.pdf
+* Ghahramani, Z. (2015) https://www.repository.cam.ac.uk/bitstream/handle/1810/248538/Ghahramani%202015%20Nature.pdf
 
 # Blogs
 * http://fastml.com/bayesian-machine-learning/
