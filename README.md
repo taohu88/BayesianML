@@ -22,6 +22,9 @@
 * Neal, R.M. Bayesian learning
 via stochastic dynamics. In
 NIPS 1993. https://pdfs.semanticscholar.org/d275/cf94e620bf5b3776bba8a88acccdcfcd9a19.pdf
+* Neal, R.M. Bayesian learning
+for neural networks. PhD
+thesis https://www.cs.toronto.edu/~radford/ftp/thesis.pdf
 
 # Blogs
 * http://fastml.com/bayesian-machine-learning/
