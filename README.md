@@ -26,6 +26,7 @@
 * Allen Downey blog:  http://allendowney.blogspot.com/2018/
 * http://twiecki.github.io/blog/2017/03/14/random-walk-deep-net/
 * One of Edward lead: http://dustintran.com/#publications
+* hybrid Monte Carlo https://mqshen.gitbooks.io/prml/Chapter11/monte/hybrid_monte_carlo.html
 
 # Tutorials
 * Hybrid Monte-Carlo Sampling http://deeplearning.net/tutorial/hmc.html
