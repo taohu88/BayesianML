@@ -14,6 +14,9 @@
 # Bayesian and Deep learning
 * Auto Encoding Variational Bayesian: https://arxiv.org/abs/1312.6114
 
+# Guassian Process
+* Good introduction on GP http://mlss2011.comp.nus.edu.sg/uploads/Site/lect1gp.pdf
+
 # Good Papers
 * Bayesian Learning via Stochastic Gradient Langevin Dynamics: https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf
 * Hamiltonian monte carlo https://arxiv.org/pdf/1701.02434.pdf
