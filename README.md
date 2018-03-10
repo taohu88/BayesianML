@@ -19,7 +19,9 @@
 # Guassian Process
 * Good introduction on GP http://mlss2011.comp.nus.edu.sg/uploads/Site/lect1gp.pdf
 
-# Good Papers
+# MCMC
+* Tianqi chen HMC : https://arxiv.org/pdf/1402.4102.pdf
+* A Complete Recipe for Stochastic Gradient MCMC: https://arxiv.org/pdf/1506.04696.pdf
 * Bayesian Learning via Stochastic Gradient Langevin Dynamics: https://www.ics.uci.edu/~welling/publications/papers/stoclangevin_v6.pdf
 * Hamiltonian monte carlo https://arxiv.org/pdf/1701.02434.pdf
 * Hamiltonian MC video: https://www.youtube.com/watch?v=VnNdhsm0rJQ
