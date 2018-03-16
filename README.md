@@ -7,6 +7,9 @@
 * https://tgmstat.wordpress.com/2013/08/07/bayesian-linear-regression-model-simple-yet-useful-results/
 * https://en.wikipedia.org/wiki/Bayesian_linear_regression
 
+# Kalman Filter
+* Great interactive book: https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python
+
 # BayesianML
 * Prime on bayesian inference http://personal.vu.nl/a.f.de.vos/primer/primer.pdf
 * Good overview at NIPS 2016: http://bayesiandeeplearning.org/2016/slides/nips16bayesdeep.pdf
