@@ -1,5 +1,6 @@
 # Introduction
 * A good introduction on MCMC (chinese version) https://www.cnblogs.com/xbinworld/p/4266146.html
+* Steps on using gibbs sampling: http://www.mit.edu/~ilkery/papers/GibbsSampling.pdf
 
 # MCMC
 * Tianqi chen HMC : https://arxiv.org/pdf/1402.4102.pdf
