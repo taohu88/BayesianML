@@ -4,6 +4,7 @@
 
 # Codes
 * Bayesian Gibbs: https://kieranrcampbell.github.io/blog/2016/05/15/gibbs-sampling-bayesian-linear-regression.html
+* statistics computation: https://github.com/cliburn/sta-663-2016/tree/master/lectures
 
 
 # MCMC
