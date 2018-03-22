@@ -3,6 +3,9 @@
 * http://www.scholarpedia.org/article/Bayesian
 * Check data normal: http://allendowney.blogspot.com/2013/08/are-my-data-normal.html
 
+# Guassina conditional Mean and Variance
+* https://stats.stackexchange.com/questions/30588/deriving-the-conditional-distributions-of-a-multivariate-normal-distribution
+
 # Covariance Property
 * Convariance property: https://en.wikipedia.org/wiki/Covariance_matrix#Properties
 
