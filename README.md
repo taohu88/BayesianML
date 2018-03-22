@@ -3,6 +3,9 @@
 * http://www.scholarpedia.org/article/Bayesian
 * Check data normal: http://allendowney.blogspot.com/2013/08/are-my-data-normal.html
 
+# Covariance Property
+* Convariance property: https://en.wikipedia.org/wiki/Covariance_matrix#Properties
+
 # Bayesian Linear Model
 * https://tgmstat.wordpress.com/2013/08/07/bayesian-linear-regression-model-simple-yet-useful-results/
 * https://en.wikipedia.org/wiki/Bayesian_linear_regression
