@@ -42,6 +42,7 @@
 
 # Books
 * Bishop: PRML
+* Elementary Statistics Learn: https://web.stanford.edu/~hastie/ElemStatLearn/
 
 # Software
 * Edward: http://edwardlib.org/getting-started
