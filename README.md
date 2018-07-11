@@ -26,6 +26,7 @@
 * Stochastic Gradient Descent as Approximate Bayesian Inference： https://arxiv.org/pdf/1704.04289.pdf
 * [Stochastic Variational Inference](http://www.columbia.edu/~jwp2128/Papers/HoffmanBleiWangPaisley2013.pdf)
 * [Variational Inference Review](https://arxiv.org/pdf/1601.00670.pdf)
+* https://en.wikipedia.org/wiki/Variational_Bayesian_methods
 
 # Guassian Process
 * Good introduction on GP http://mlss2011.comp.nus.edu.sg/uploads/Site/lect1gp.pdf
