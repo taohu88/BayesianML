@@ -28,6 +28,7 @@
 * [Stochastic Variational Inference](http://www.columbia.edu/~jwp2128/Papers/HoffmanBleiWangPaisley2013.pdf)
 * [Variational Inference Review](https://arxiv.org/pdf/1601.00670.pdf)
 * https://en.wikipedia.org/wiki/Variational_Bayesian_methods
+* [Empirical Bayes](http://statweb.stanford.edu/~ckirby/brad/LSI/chapter1.pdf)
 
 # Guassian Process
 * Good introduction on GP http://mlss2011.comp.nus.edu.sg/uploads/Site/lect1gp.pdf
