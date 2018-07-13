@@ -7,3 +7,6 @@
 * [Variational Inference Review](https://arxiv.org/pdf/1601.00670.pdf)
 * https://en.wikipedia.org/wiki/Variational_Bayesian_methods
 * [Empirical Bayes](http://statweb.stanford.edu/~ckirby/brad/LSI/chapter1.pdf)
+
+# Implementation
+* http://tiao.io/posts/implementing-variational-autoencoders-in-keras-beyond-the-quickstart-tutorial/
