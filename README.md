@@ -11,6 +11,7 @@
 
 # Bayesian Linear Model
 * Bayesian linear probit model implementation http://www.herbrich.me/papers/adpredictor.pdf
+* Trueskll: https://papers.nips.cc/paper/3079-trueskilltm-a-bayesian-skill-rating-system.pdf
 * https://tgmstat.wordpress.com/2013/08/07/bayesian-linear-regression-model-simple-yet-useful-results/
 * https://en.wikipedia.org/wiki/Bayesian_linear_regression
 
