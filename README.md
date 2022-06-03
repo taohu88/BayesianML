@@ -10,6 +10,7 @@
 * Convariance property: https://en.wikipedia.org/wiki/Covariance_matrix#Properties
 
 # Bayesian Linear Model
+* Bayesian linear probit model implementation http://www.herbrich.me/papers/adpredictor.pdf
 * https://tgmstat.wordpress.com/2013/08/07/bayesian-linear-regression-model-simple-yet-useful-results/
 * https://en.wikipedia.org/wiki/Bayesian_linear_regression
 
