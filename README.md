@@ -41,6 +41,6 @@
 * Elementary Statistics Learn: https://web.stanford.edu/~hastie/ElemStatLearn/
 
 # Software
-* Edward: http://edwardlib.org/getting-started
+* Stan: https://mc-stan.org/
 * Pymc3: https://github.com/pymc-devs/pymc3
 
